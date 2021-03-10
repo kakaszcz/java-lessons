@@ -1,1 +1,2 @@
-# java-lessons
+# These are my Java lessons
+Buch of java files...
