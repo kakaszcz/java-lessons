@@ -6,7 +6,7 @@ public class Main {
         int wiek = new Scanner(System.in).nextInt();
         System.out.println("twoj wiek to: " + wiek);
         if ((wiek >= 0) && (wiek <= 30)) {
-            System.out.println("jesteś mlody");
+            System.out.println("jesteś mlody" + "");
         } else if (wiek > 31) {
             System.out.println("jestes sredni lub stary");
         } else {
